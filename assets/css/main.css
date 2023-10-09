@@ -1845,7 +1845,7 @@ ul.icons {
 	.icon-list {
 		display: flex;
 		flex-wrap: wrap;
-		justify-content: space-around;
+		justify-content: space-between;
 	}
 	
 	.icon-item {
@@ -1855,7 +1855,7 @@ ul.icons {
 	}
 	
 	.icon-item i {
-		font-size: 6em;
+		font-size: 5em;
 		margin-bottom: 10px;
 		
 	}
